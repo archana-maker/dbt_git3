@@ -1,0 +1,2 @@
+select current_database(), select current_schema()
+selct id 1,name 'rajitha'
